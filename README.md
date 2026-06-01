@@ -14,9 +14,8 @@ When I'm away from the keyboard, you'll probably find me playing tennis, tinkeri
 
 ### 📬 How to reach me:
 📩 [ianlucas2014t@gmail.com](mailto:ianlucas2014t@gmail.com)
-💼 [LinkedIn](www.linkedin.com/in/ian-lucas-8a030824b)
+💼 [LinkedIn](https://www.linkedin.com/in/ian-lucas-8a030824b/)
 
-)
 
 ---
 
