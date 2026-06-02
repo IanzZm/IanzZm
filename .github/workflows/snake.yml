@@ -19,12 +19,13 @@ jobs:
       # Checkout do repositório
       - uses: actions/checkout@v3
 
-      # Gerador da animação da cobrinha
-      - uses: Platane/snk@master
+      # Gerador da animação da cobrinha (Versão Atualizada)
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: IanzZm
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       # Faz o deploy para a branch "output"
       - uses: crazy-max/ghaction-github-pages@v2.1.3
