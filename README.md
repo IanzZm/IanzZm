@@ -50,7 +50,6 @@ When I'm away from the keyboard, you'll probably find me playing tennis, tinkeri
 
 ---
 
-### 🐍 GitHub Contribution Graph
 
 ### 🐍 GitHub Contribution Graph
 
