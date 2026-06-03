@@ -30,11 +30,13 @@ Quando estou longe do teclado, você provavelmente vai me encontrar jogando tên
 
 ---
 
-### 🚀 Some of the professional & academic work I have done:
+### 🚀 Alguns dos meus trabalhos profissionais e acadêmicos:
 
-> I am currently developing **Technical Connect**, a social network specifically for developers, building a robust back-end API using **Go**.
+> Atualmente, estou desenvolvendo uma **aplicação web Full-Stack**, construindo interfaces dinâmicas com **React** e realizando a integração de dados e serviços utilizando o **Firebase**.
 
-> I previously worked providing technical and financial support, as well as managing data analysis spreadsheets at **Grupo Melo & Estrela**.
+> Trabalhei na **AutoForce**, onde atuei no suporte técnico, gerenciamento e inserção de dados em sistemas, além de apoiar o desenvolvimento de páginas web em HTML.
+
+> Anteriormente, atuei no **Grupo Melo & Estrela**, prestando suporte técnico e financeiro, além de gerenciar planilhas para análise de dados.
 
 ---
 
