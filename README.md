@@ -9,6 +9,7 @@
 ### 🇺🇸 About Me | 🇧🇷 Sobre Mim
 
 **🇺🇸 Full-Stack Developer & IT Student at UFRN**
+
 I am a Full-Stack Developer focused on creating web applications. I have experience building dynamic front-end interfaces using React, Next.js, and TypeScript, and I am proficient in databases and SQL commands (PostgreSQL). On the back-end, I have been exploring and learning API development with Go. My focus is always on delivering clean, well-structured code.
 
 When I'm away from the keyboard, you'll probably find me playing tennis, enjoying a few matches of CS2 or LoL, or hanging out with my Shiba Inu, Doug.
