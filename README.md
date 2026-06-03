@@ -14,6 +14,7 @@ I am a Full-Stack Developer focused on creating web applications. I have experie
 When I'm away from the keyboard, you'll probably find me playing tennis, enjoying a few matches of CS2 or LoL, or hanging out with my Shiba Inu, Doug.
 
 **🇧🇷 Desenvolvedor Full-Stack & Estudante de TI na UFRN**
+
 Sou um Desenvolvedor Full-Stack focado na criação de aplicações web. Tenho experiência construindo interfaces dinâmicas no front-end utilizando React, Next.js e TypeScript, e possuo domínio em bancos de dados e comandos SQL (PostgreSQL). No back-end, venho estudando e me aventurando na criação de APIs com Go. Meu foco é sempre entregar um código limpo e bem estruturado.
 
 Quando estou longe do teclado, você provavelmente vai me encontrar jogando tênis, em algumas partidas de CS2 ou LoL, ou passando um tempo com o meu Shiba Inu, o Doug.
