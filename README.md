@@ -6,15 +6,26 @@
 
 ---
 
-### 💻 Full-Stack Developer & IT Student at UFRN
+### 🇺🇸 Full-Stack Developer & IT Student at UFRN
 
-I am a Full-Stack Developer focused on creating web applications. I have practical experience developing complete projects, building back-end APIs with Go and dynamic front-end interfaces with React and TypeScript. I am proficient in databases and SQL commands (PostgreSQL), always focusing on delivering clean, structured code and end-to-end functional systems.
+I am a Full-Stack Developer focused on creating web applications. I have experience building dynamic front-end interfaces using React, Next.js, and TypeScript, and I am proficient in databases and SQL commands (PostgreSQL). On the back-end, I have been exploring and learning API development with Go. My focus is always on delivering clean, well-structured code.
 
-When I'm away from the keyboard, you'll probably find me playing tennis, tinkering with 3D printing, playing CS2 or LoL, or hanging out with my Shiba Inu, Doug.
+When I'm away from the keyboard, you'll probably find me playing tennis, enjoying a few matches of CS2 or LoL, or hanging out with my Shiba Inu, Doug.
 
-### 📬 How to reach me:
+---
+
+### 🇧🇷 Desenvolvedor Full-Stack & Estudante de TI na UFRN
+
+Sou um Desenvolvedor Full-Stack focado na criação de aplicações web. Tenho experiência construindo interfaces dinâmicas no front-end utilizando React, Next.js e TypeScript, e possuo domínio em bancos de dados e comandos SQL (PostgreSQL). No back-end, venho estudando e me aventurando na criação de APIs com Go. Meu foco é sempre entregar um código limpo e bem estruturado.
+
+Quando estou longe do teclado, você provavelmente vai me encontrar jogando tênis, em algumas partidas de CS2 ou LoL, ou passando um tempo com o meu Shiba Inu, o Doug.
+
+---
+
+### 📬 Contato / How to reach me:
 📩 [ianlucas2014t@gmail.com](mailto:ianlucas2014t@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/ian-lucas-8a030824b/)
+📱 [WhatsApp](https://wa.me/5584998496217/)
+💼 [LinkedIn](https://www.linkedin.com/in/ian-lucas/)
 
 
 ---
