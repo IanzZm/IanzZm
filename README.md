@@ -32,14 +32,7 @@ Quando estou longe do teclado, você provavelmente vai me encontrar jogando tên
 
 ### 🚀 Experience & Projects | Trabalhos e Projetos
 
-**🇺🇸 Some of the professional & academic work I have done:**
-> I am currently developing a **Full-Stack web application**, building dynamic interfaces with **React** and integrating backend services and databases using **Firebase**.
-
-> I worked at **AutoForce**, where I provided technical support, managed system data, and assisted in the development of HTML web pages.
-
-> I previously worked at **Grupo Melo & Estrela**, providing technical and financial support, as well as managing spreadsheets for data analysis.
-
-**🇧🇷 Alguns dos meus trabalhos profissionais e acadêmicos:**
+**Alguns dos meus trabalhos profissionais e acadêmicos:**
 > Atualmente, estou desenvolvendo uma **aplicação web Full-Stack**, construindo interfaces dinâmicas com **React** e realizando a integração de dados e serviços utilizando o **Firebase**.
 
 > Trabalhei na **AutoForce**, onde atuei no suporte técnico, gerenciamento e inserção de dados em sistemas, além de apoiar o desenvolvimento de páginas web em HTML.
