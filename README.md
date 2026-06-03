@@ -20,6 +20,16 @@ Quando estou longe do teclado, você provavelmente vai me encontrar jogando tên
 
 ---
 
+### 📬 Contato / How to reach me
+
+<div align="center">
+  <a href="mailto:ianlucas2014t@gmail.com"><img height="35" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/5584998496217/"><img height="35" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/ian-lucas/"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+---
+
 ### 🚀 Experience & Projects | Trabalhos e Projetos
 
 **🇺🇸 Some of the professional & academic work I have done:**
@@ -73,12 +83,3 @@ Quando estou longe do teclado, você provavelmente vai me encontrar jogando tên
   </picture>
 </div>
 
----
-
-### 📬 Contato / How to reach me
-
-<div align="center">
-  <a href="mailto:ianlucas2014t@gmail.com"><img height="35" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/5584998496217/"><img height="35" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/ian-lucas/"><img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
