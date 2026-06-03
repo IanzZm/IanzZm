@@ -56,6 +56,7 @@ Quando estou longe do teclado, você provavelmente vai me encontrar jogando tên
   <a href="https://react.dev/"><img height="35" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="https://www.typescriptlang.org/"><img height="35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="https://nextjs.org/"><img height="35" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+  <a href="https://firebase.google.com/"><img height="35" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></a>
   <a href="https://nodejs.org/en/"><img height="35" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
   <a href="https://www.postgresql.org/"><img height="35" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   <a href="https://tailwindcss.com/"><img height="35" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
